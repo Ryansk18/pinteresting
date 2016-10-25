@@ -2,7 +2,7 @@
 
 $body-bg:												#34495e;
 $font-family-sans-serif:				'Hammersmith One', cursive;
-$font-size-base:								16px;
+$font-size-base:								14px;
 $navbar-default-bg:							#16a085;
 $navbar-default-link-color:			white;
 $navbar-default-brand-color:		#34495e;
@@ -28,8 +28,6 @@ img.center {
 }
 
 img.resize {
-    height: auto; 
-    width: auto; 
-    max-width: 50%; 
-    max-height: 50%;
+    height: 264px; 
+    width: 300px; 
 }
