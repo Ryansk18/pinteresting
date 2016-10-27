@@ -14,6 +14,11 @@ $jumbotron-color:								#ecf0f1;
 $well-bg:												#59abe3;
 $text-color:										#ecf0f1;
 $link-color:										#f1c40f;
+$panel-default-border:					#16a085;
+$panel-default-text:						white;
+$panel-default-heading-bg:			#16a085;
+$panel-footer-bg:								#16a085;
+$input-color:										#34495e;
 
 @import 'bootstrap';
 
@@ -30,4 +35,8 @@ img.center {
 img.resize {
     height: 264px; 
     width: 300px; 
+}
+
+.base-text {
+		color: #34495e;
 }
